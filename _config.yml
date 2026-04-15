@@ -2,4 +2,4 @@ remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: CS-499 ePortfolio
-description: Bookmark this to keep an eye on my project updates!
+description: Feel free to visit my GitHub profile to view more projects!
