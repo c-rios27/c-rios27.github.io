@@ -6,7 +6,7 @@
 > This ePortfolio is meant to demonstrate my skills in Computer Science, especially in Software Design & Engineering, Algorithms & Data Structure, and Databases.
 
 ## Self-Assessment
-> Previous to starting working towards my bachelor's, I had little to no knowledge of Computer Science. It wasn't until I saw in person supercomputers, especially El Capitan,
+> Prior to beginning work towards my bachelor's degree, I had little to no knowledge of Computer Science. It wasn't until I saw in person supercomputers, especially El Capitan,
 > that I was inspired to learn about Computer Science and pursue it. The Computer Science Capstone, as well as my time at SNHU, have contributed to this inspiration, and helped
 > me achieve my goal of becoming a Computer Scientist. During the Capstone, I learned how to do a code review video, narratives, and had the opportunity to enhance projects from 
 > previous courses. Throughout the process of recording the code review video, as well as enhancing each project, I learned the importance and value of commenting, improving, meeting requirements,
@@ -36,7 +36,7 @@
 > While I was not able to refactor the code, something I had thought of after submitting my Code Review, I did meet the planned course outcomes to meet this enhancement.
 > And I am very proud that I was able to meet these outcomes.
 
-> When reflecting on the process of modifying the artifact, I though of how much I wanted to give the scene’s design a much more vivid look in colors, while keeping the lighting and shadows as close as possible to the original 3D scene.
+> When reflecting on the process of modifying the artifact, I thought of how much I wanted to give the scene’s design a much more vivid look in colors, while keeping the lighting and shadows as close as possible to the original 3D scene.
 > By following my CS 330 Final Project as a guide, I was able to implement lighting and solidify the once transparent shapes.
 > Solidifying the shapes by using the alpha channel was new to me, just as it was playing with new light angles. 
 > Challenge-wise, I faced trial and error continuously to get the lighting correct.
@@ -68,7 +68,7 @@
 > For Milestone Four and Enhancement Three, I worked with an artifact from CS 340: Advanced Programming Concepts.
 > The artifact, as mentioned during Module One’s assignment, is a project that allowed users to create, read, update, and delete (CRUD) an animal’s profile in a database of animals known as Austin Animal Center (AAC).
 > It was created and worked with between July and August of 2025.
-> I selected this artifact because it gave me the opportunity to improve it by adding query sanitization and the ability to add create, read, update, and delete (CRUD) multiple animal profiles at the same time.
+> I selected this artifact because it gave me the opportunity to improve it by adding query sanitization and the ability to create, read, update, and delete (CRUD) multiple animal profiles at the same time.
 > And it also gave me the opportunity to demonstrate my problem solving skills, as well as my Python programming skills.
 
 > My goal was to improve this artifact by adding query sanitization and allowing the user to create, read, update, and delete (CRUD) multiple animal profiles at the same time.
