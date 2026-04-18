@@ -11,7 +11,9 @@
 > me achieve my goal of becoming a Computer Scientist. During the Capstone, I learned how to do a code review video, narratives, and had the opportunity to enhance projects from 
 > previous courses. Throughout the process of recording the code review video, as well as enhancing each project, I learned the importance and value of commenting, improving, meeting requirements,
 > sanitizing,
-> and securing code. Collaboration-wise, I relied on my instructor's feedback, as well as feedback from peers from the Computer Science field, to further improve my projects.
+> and securing code.
+
+> Collaboration-wise, I relied on my instructor's feedback, as well as feedback from peers from the Computer Science field, to further improve my projects.
 > To add, having had collaborated with and worked with different type of end users, such as companies and their customers, on previous courses, has helped me understand better the
 > needs, requirements, and wants of users. To finalize my self-assessment, I am proud of how far I've come. The projects presented in this ePortfolio are a testament of this, and will continue
 > to be in the near future, as I continue growing professionally in the Computer Science field.
